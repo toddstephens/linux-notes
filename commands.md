@@ -10,3 +10,10 @@
 **echo** - Send text to stdout or a file or pipe
 **ping** - test network connection by contacting another host
 **dd** - write disk images directly to USB keys and much more
+
+# Vim specific commands
+**:q!** - Escape the unescapable
+**dd** - Delete the current line
+**p** - Paste
+**ctrl-v** - Select text visually
+**/** - Search file
